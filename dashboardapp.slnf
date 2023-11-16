@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\source\\repos\\Generic_Employee_Dashboard\\Generic_Employee_Dashboard.sln",
+    "projects": [
+      "Generic_Employee_Dashboard\\Generic_Employee_Dashboard.csproj"
+    ]
+  }
+}
